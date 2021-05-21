@@ -1,0 +1,22 @@
+ ["nombre"]=>
+  string(3) "ABC"
+  ["codigo_paciente"]=>
+  string(5) "A-001"
+  ["fecha_consulta"]=>
+  string(10) "2021-04-14"
+  ["edad"]=>
+  string(2) "43"
+  ["peso"]=>
+  string(3) "161"
+  ["talla"]=>
+  string(3) "161"
+  ["fecha_diagnostico"]=>
+  string(10) "2021-04-23"
+  ["otros-post-covid"]=>
+  string(0) ""
+  ["tipo-tratamiento"]=>
+  string(24) "Hospitalización en piso"
+  ["persistencia_sintomas"]=>
+  string(1) "0"
+  ["movilidad"]=>
+  string(1) "0"
